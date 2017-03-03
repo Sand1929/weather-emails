@@ -6,7 +6,9 @@ from crispy_forms.layout import Submit
 
 class SubscribeForm(forms.ModelForm):
     # customize city field
-    city = forms.ModelChoiceField(label="Location", queryset=City.objects.all(), empty_label="Where do you live?")
+    city = forms.ModelChoiceField(label="Location", 
+                                  queryset=City.objects.order_by('name'), 
+                                  empty_label="Where do you live?")
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)

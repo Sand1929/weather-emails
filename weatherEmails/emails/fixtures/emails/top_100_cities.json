@@ -193,7 +193,7 @@
     },
     {
         "fields": {
-            "name": "Nashville-Davidson",
+            "name": "Nashville",
             "state": "Tennessee"
         },
         "model": "emails.city",
@@ -209,7 +209,7 @@
     },
     {
         "fields": {
-            "name": "Louisville/Jefferson",
+            "name": "Louisville",
             "state": "Kentucky"
         },
         "model": "emails.city",
@@ -225,7 +225,7 @@
     },
     {
         "fields": {
-            "name": "Oklahoma ",
+            "name": "Oklahoma",
             "state": "Oklahoma"
         },
         "model": "emails.city",
@@ -289,7 +289,7 @@
     },
     {
         "fields": {
-            "name": "Kansas ",
+            "name": "Kansas",
             "state": "Missouri"
         },
         "model": "emails.city",
@@ -489,7 +489,7 @@
     },
     {
         "fields": {
-            "name": "Lexington-Fayette",
+            "name": "Lexington",
             "state": "Kentucky"
         },
         "model": "emails.city",
@@ -497,7 +497,7 @@
     },
     {
         "fields": {
-            "name": "Anchorage municipality",
+            "name": "Anchorage",
             "state": "Alaska"
         },
         "model": "emails.city",
@@ -593,7 +593,7 @@
     },
     {
         "fields": {
-            "name": "Jersey ",
+            "name": "Jersey",
             "state": "New Jersey"
         },
         "model": "emails.city",
