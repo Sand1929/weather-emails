@@ -1,0 +1,802 @@
+[
+    {
+        "fields": {
+            "name": "New York City",
+            "state": "New York"
+        },
+        "model": "emails.city",
+        "pk": 1
+    },
+    {
+        "fields": {
+            "name": "Los Angeles",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 2
+    },
+    {
+        "fields": {
+            "name": "Chicago",
+            "state": "Illinois"
+        },
+        "model": "emails.city",
+        "pk": 3
+    },
+    {
+        "fields": {
+            "name": "Houston",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 4
+    },
+    {
+        "fields": {
+            "name": "Philadelphia",
+            "state": "Pennsylvania"
+        },
+        "model": "emails.city",
+        "pk": 5
+    },
+    {
+        "fields": {
+            "name": "Phoenix",
+            "state": "Arizona"
+        },
+        "model": "emails.city",
+        "pk": 6
+    },
+    {
+        "fields": {
+            "name": "San Antonio",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 7
+    },
+    {
+        "fields": {
+            "name": "San Diego",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 8
+    },
+    {
+        "fields": {
+            "name": "Dallas",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 9
+    },
+    {
+        "fields": {
+            "name": "San Jose",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 10
+    },
+    {
+        "fields": {
+            "name": "Austin",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 11
+    },
+    {
+        "fields": {
+            "name": "Jacksonville",
+            "state": "Florida"
+        },
+        "model": "emails.city",
+        "pk": 12
+    },
+    {
+        "fields": {
+            "name": "Indianapolis",
+            "state": "Indiana"
+        },
+        "model": "emails.city",
+        "pk": 13
+    },
+    {
+        "fields": {
+            "name": "San Francisco",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 14
+    },
+    {
+        "fields": {
+            "name": "Columbus",
+            "state": "Ohio"
+        },
+        "model": "emails.city",
+        "pk": 15
+    },
+    {
+        "fields": {
+            "name": "Fort Worth",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 16
+    },
+    {
+        "fields": {
+            "name": "Charlotte",
+            "state": "North Carolina"
+        },
+        "model": "emails.city",
+        "pk": 17
+    },
+    {
+        "fields": {
+            "name": "Detroit",
+            "state": "Michigan"
+        },
+        "model": "emails.city",
+        "pk": 18
+    },
+    {
+        "fields": {
+            "name": "El Paso",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 19
+    },
+    {
+        "fields": {
+            "name": "Memphis",
+            "state": "Tennessee"
+        },
+        "model": "emails.city",
+        "pk": 20
+    },
+    {
+        "fields": {
+            "name": "Boston",
+            "state": "Massachusetts"
+        },
+        "model": "emails.city",
+        "pk": 21
+    },
+    {
+        "fields": {
+            "name": "Seattle",
+            "state": "Washington"
+        },
+        "model": "emails.city",
+        "pk": 22
+    },
+    {
+        "fields": {
+            "name": "Denver",
+            "state": "Colorado"
+        },
+        "model": "emails.city",
+        "pk": 23
+    },
+    {
+        "fields": {
+            "name": "Washington",
+            "state": "DC"
+        },
+        "model": "emails.city",
+        "pk": 24
+    },
+    {
+        "fields": {
+            "name": "Nashville-Davidson",
+            "state": "Tennessee"
+        },
+        "model": "emails.city",
+        "pk": 25
+    },
+    {
+        "fields": {
+            "name": "Baltimore",
+            "state": "Maryland"
+        },
+        "model": "emails.city",
+        "pk": 26
+    },
+    {
+        "fields": {
+            "name": "Louisville/Jefferson",
+            "state": "Kentucky"
+        },
+        "model": "emails.city",
+        "pk": 27
+    },
+    {
+        "fields": {
+            "name": "Portland",
+            "state": "Oregon"
+        },
+        "model": "emails.city",
+        "pk": 28
+    },
+    {
+        "fields": {
+            "name": "Oklahoma ",
+            "state": "Oklahoma"
+        },
+        "model": "emails.city",
+        "pk": 29
+    },
+    {
+        "fields": {
+            "name": "Milwaukee",
+            "state": "Wisconsin"
+        },
+        "model": "emails.city",
+        "pk": 30
+    },
+    {
+        "fields": {
+            "name": "Las Vegas",
+            "state": "Nevada"
+        },
+        "model": "emails.city",
+        "pk": 31
+    },
+    {
+        "fields": {
+            "name": "Albuquerque",
+            "state": "New Mexico"
+        },
+        "model": "emails.city",
+        "pk": 32
+    },
+    {
+        "fields": {
+            "name": "Tucson",
+            "state": "Arizona"
+        },
+        "model": "emails.city",
+        "pk": 33
+    },
+    {
+        "fields": {
+            "name": "Fresno",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 34
+    },
+    {
+        "fields": {
+            "name": "Sacramento",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 35
+    },
+    {
+        "fields": {
+            "name": "Long Beach",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 36
+    },
+    {
+        "fields": {
+            "name": "Kansas ",
+            "state": "Missouri"
+        },
+        "model": "emails.city",
+        "pk": 37
+    },
+    {
+        "fields": {
+            "name": "Mesa",
+            "state": "Arizona"
+        },
+        "model": "emails.city",
+        "pk": 38
+    },
+    {
+        "fields": {
+            "name": "Virginia Beach",
+            "state": "Virginia"
+        },
+        "model": "emails.city",
+        "pk": 39
+    },
+    {
+        "fields": {
+            "name": "Atlanta",
+            "state": "Georgia"
+        },
+        "model": "emails.city",
+        "pk": 40
+    },
+    {
+        "fields": {
+            "name": "Colorado Springs",
+            "state": "Colorado"
+        },
+        "model": "emails.city",
+        "pk": 41
+    },
+    {
+        "fields": {
+            "name": "Raleigh",
+            "state": "North Carolina"
+        },
+        "model": "emails.city",
+        "pk": 42
+    },
+    {
+        "fields": {
+            "name": "Omaha",
+            "state": "Nebraska"
+        },
+        "model": "emails.city",
+        "pk": 43
+    },
+    {
+        "fields": {
+            "name": "Miami",
+            "state": "Florida"
+        },
+        "model": "emails.city",
+        "pk": 44
+    },
+    {
+        "fields": {
+            "name": "Oakland",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 45
+    },
+    {
+        "fields": {
+            "name": "Tulsa",
+            "state": "Oklahoma"
+        },
+        "model": "emails.city",
+        "pk": 46
+    },
+    {
+        "fields": {
+            "name": "Minneapolis",
+            "state": "Minnesota"
+        },
+        "model": "emails.city",
+        "pk": 47
+    },
+    {
+        "fields": {
+            "name": "Cleveland",
+            "state": "Ohio"
+        },
+        "model": "emails.city",
+        "pk": 48
+    },
+    {
+        "fields": {
+            "name": "Wichita",
+            "state": "Kansas"
+        },
+        "model": "emails.city",
+        "pk": 49
+    },
+    {
+        "fields": {
+            "name": "Arlington",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 50
+    },
+    {
+        "fields": {
+            "name": "New Orleans",
+            "state": "Louisiana"
+        },
+        "model": "emails.city",
+        "pk": 51
+    },
+    {
+        "fields": {
+            "name": "Bakersfield",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 52
+    },
+    {
+        "fields": {
+            "name": "Tampa",
+            "state": "Florida"
+        },
+        "model": "emails.city",
+        "pk": 53
+    },
+    {
+        "fields": {
+            "name": "Honolulu",
+            "state": "Hawaii"
+        },
+        "model": "emails.city",
+        "pk": 54
+    },
+    {
+        "fields": {
+            "name": "Anaheim",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 55
+    },
+    {
+        "fields": {
+            "name": "Aurora",
+            "state": "Colorado"
+        },
+        "model": "emails.city",
+        "pk": 56
+    },
+    {
+        "fields": {
+            "name": "Santa Ana",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 57
+    },
+    {
+        "fields": {
+            "name": "St. Louis",
+            "state": "Missouri"
+        },
+        "model": "emails.city",
+        "pk": 58
+    },
+    {
+        "fields": {
+            "name": "Riverside",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 59
+    },
+    {
+        "fields": {
+            "name": "Corpus Christi",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 60
+    },
+    {
+        "fields": {
+            "name": "Pittsburgh",
+            "state": "Pennsylvania"
+        },
+        "model": "emails.city",
+        "pk": 61
+    },
+    {
+        "fields": {
+            "name": "Lexington-Fayette",
+            "state": "Kentucky"
+        },
+        "model": "emails.city",
+        "pk": 62
+    },
+    {
+        "fields": {
+            "name": "Anchorage municipality",
+            "state": "Alaska"
+        },
+        "model": "emails.city",
+        "pk": 63
+    },
+    {
+        "fields": {
+            "name": "Stockton",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 64
+    },
+    {
+        "fields": {
+            "name": "Cincinnati",
+            "state": "Ohio"
+        },
+        "model": "emails.city",
+        "pk": 65
+    },
+    {
+        "fields": {
+            "name": "St. Paul",
+            "state": "Minnesota"
+        },
+        "model": "emails.city",
+        "pk": 66
+    },
+    {
+        "fields": {
+            "name": "Toledo",
+            "state": "Ohio"
+        },
+        "model": "emails.city",
+        "pk": 67
+    },
+    {
+        "fields": {
+            "name": "Newark",
+            "state": "New Jersey"
+        },
+        "model": "emails.city",
+        "pk": 68
+    },
+    {
+        "fields": {
+            "name": "Greensboro",
+            "state": "North Carolina"
+        },
+        "model": "emails.city",
+        "pk": 69
+    },
+    {
+        "fields": {
+            "name": "Plano",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 70
+    },
+    {
+        "fields": {
+            "name": "Henderson",
+            "state": "Nevada"
+        },
+        "model": "emails.city",
+        "pk": 71
+    },
+    {
+        "fields": {
+            "name": "Lincoln",
+            "state": "Nebraska"
+        },
+        "model": "emails.city",
+        "pk": 72
+    },
+    {
+        "fields": {
+            "name": "Buffalo",
+            "state": "New York"
+        },
+        "model": "emails.city",
+        "pk": 73
+    },
+    {
+        "fields": {
+            "name": "Fort Wayne",
+            "state": "Indiana"
+        },
+        "model": "emails.city",
+        "pk": 74
+    },
+    {
+        "fields": {
+            "name": "Jersey ",
+            "state": "New Jersey"
+        },
+        "model": "emails.city",
+        "pk": 75
+    },
+    {
+        "fields": {
+            "name": "Chula Vista",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 76
+    },
+    {
+        "fields": {
+            "name": "Orlando",
+            "state": "Florida"
+        },
+        "model": "emails.city",
+        "pk": 77
+    },
+    {
+        "fields": {
+            "name": "St. Petersburg",
+            "state": "Florida"
+        },
+        "model": "emails.city",
+        "pk": 78
+    },
+    {
+        "fields": {
+            "name": "Norfolk",
+            "state": "Virginia"
+        },
+        "model": "emails.city",
+        "pk": 79
+    },
+    {
+        "fields": {
+            "name": "Chandler",
+            "state": "Arizona"
+        },
+        "model": "emails.city",
+        "pk": 80
+    },
+    {
+        "fields": {
+            "name": "Laredo",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 81
+    },
+    {
+        "fields": {
+            "name": "Madison",
+            "state": "Wisconsin"
+        },
+        "model": "emails.city",
+        "pk": 82
+    },
+    {
+        "fields": {
+            "name": "Durham",
+            "state": "North Carolina"
+        },
+        "model": "emails.city",
+        "pk": 83
+    },
+    {
+        "fields": {
+            "name": "Lubbock",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 84
+    },
+    {
+        "fields": {
+            "name": "Winston-Salem",
+            "state": "North Carolina"
+        },
+        "model": "emails.city",
+        "pk": 85
+    },
+    {
+        "fields": {
+            "name": "Garland",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 86
+    },
+    {
+        "fields": {
+            "name": "Glendale",
+            "state": "Arizona"
+        },
+        "model": "emails.city",
+        "pk": 87
+    },
+    {
+        "fields": {
+            "name": "Hialeah",
+            "state": "Florida"
+        },
+        "model": "emails.city",
+        "pk": 88
+    },
+    {
+        "fields": {
+            "name": "Reno",
+            "state": "Nevada"
+        },
+        "model": "emails.city",
+        "pk": 89
+    },
+    {
+        "fields": {
+            "name": "Baton Rouge",
+            "state": "Louisiana"
+        },
+        "model": "emails.city",
+        "pk": 90
+    },
+    {
+        "fields": {
+            "name": "Irvine",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 91
+    },
+    {
+        "fields": {
+            "name": "Chesapeake",
+            "state": "Virginia"
+        },
+        "model": "emails.city",
+        "pk": 92
+    },
+    {
+        "fields": {
+            "name": "Irving",
+            "state": "Texas"
+        },
+        "model": "emails.city",
+        "pk": 93
+    },
+    {
+        "fields": {
+            "name": "Scottsdale",
+            "state": "Arizona"
+        },
+        "model": "emails.city",
+        "pk": 94
+    },
+    {
+        "fields": {
+            "name": "North Las Vegas",
+            "state": "Nevada"
+        },
+        "model": "emails.city",
+        "pk": 95
+    },
+    {
+        "fields": {
+            "name": "Fremont",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 96
+    },
+    {
+        "fields": {
+            "name": "Gilbert town",
+            "state": "Arizona"
+        },
+        "model": "emails.city",
+        "pk": 97
+    },
+    {
+        "fields": {
+            "name": "San Bernardino",
+            "state": "California"
+        },
+        "model": "emails.city",
+        "pk": 98
+    },
+    {
+        "fields": {
+            "name": "Boise",
+            "state": "Idaho"
+        },
+        "model": "emails.city",
+        "pk": 99
+    },
+    {
+        "fields": {
+            "name": "Birmingham",
+            "state": "Alabama"
+        },
+        "model": "emails.city",
+        "pk": 100
+    }
+]

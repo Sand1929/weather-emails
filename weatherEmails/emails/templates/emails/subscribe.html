@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block styles %}
+{{ block.super }}
+<link href="{% static 'emails/css/subscribe.css' %}" rel='stylesheet'/>
+{% endblock %}
+
+{% block body %}
+<div class="panel panel-default">
+    <div class="panel-heading">
+        Weather Powered Email
+    </div>
+    <div class="panel-body">
+        {% crispy form %}
+    </div>
+</div>
+{% endblock %}

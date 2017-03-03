@@ -1,0 +1,13 @@
+.panel-default {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+#subscribe-form #submit-id-subscribe {
+  float: right; }
+
+.asteriskField {
+  display: none; }
+
+/*# sourceMappingURL=subscribe.css.map */
